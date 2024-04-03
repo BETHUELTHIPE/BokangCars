@@ -20,17 +20,10 @@
 </div>
 </p>
 
-### Udemy
 
-<a href="https://www.udemy.com/course/draft/4490498/?referralCode=871E60737E1887EF63E1">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Udemy_logo.svg/2560px-Udemy_logo.svg.png" alt="Udemy Course Link" width="200">
-</a>
 
-### Discord
 
-<a href="https://discord.gg/bUV8ssnWfB">
-<img src="https://www.cemetech.net/media/news_attachment/903/discordimage.png" alt="Discord Link" width="200">
-</a>
+
 
 ## License
 
