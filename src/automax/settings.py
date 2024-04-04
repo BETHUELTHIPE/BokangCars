@@ -26,7 +26,7 @@ SECRET_KEY = "64x_huhh3q5x)sk!=4ww=r!l68ak6#ho4%1ig*z=s&i*3mklxj"
 DEBUG = True if env('DJANGOAPPMODE') == 'Debug' else False
 print(f'Application running in debug mode: {DEBUG}')
 
-ALLOWED_HOSTS = ['bokangcars-e82a2ecc1438.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['', '127.0.0.1']
 
 
 # Application definition
